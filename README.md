@@ -1,6 +1,6 @@
  👋 Hey there, I'm Kate!
 - 🚀 Aspiring Front-End Developer | Ambitious Learner
-- 📚 Understanding the ways of the world wed development, while also balancing high school life.
+- 📚 Discovering the ways of the world wed development, while also balancing high school life.
 - 💡 Fascinated about the world of wed development, main focus at the moment is HTML, CSS, and JavaScript.
 - 🎙️ Always open to new opportunities!
 <!---
